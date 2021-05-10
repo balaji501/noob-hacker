@@ -4,7 +4,9 @@ hi guys
 im a noob hacker
 welcome to by blog
 today i will show you how to track location
+
 Requirements
+
 Termux
 Download Link
 Hacker's Keyboard
@@ -14,9 +16,13 @@ IPGeoLocation GitHub
 https://github.com/maldevel/IPGeoLocation.git
 Difficulty
 Intermediate
+
+
 procedure
 1: First we need to setup Android Termux
-Type command pkg update && pkg uograde && pkg install python && pkg install python2 and press Enter.
+Type command 
+pkg update && pkg uograde && pkg install python && pkg install python2 
+and press Enter.
 2.png
 
 2: Now visit the GitHub Link
